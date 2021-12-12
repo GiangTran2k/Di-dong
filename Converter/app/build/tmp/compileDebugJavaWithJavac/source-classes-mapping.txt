@@ -1,0 +1,4 @@
+com/example/baseconverter/BuildConfig.java
+ com.example.baseconverter.BuildConfig
+com/example/baseconverter/MainActivity.java
+ com.example.baseconverter.MainActivity

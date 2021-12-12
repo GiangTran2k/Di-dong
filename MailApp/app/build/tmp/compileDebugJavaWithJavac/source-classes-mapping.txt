@@ -1,0 +1,8 @@
+com/example/mailapp/MainActivity.java
+ com.example.mailapp.MainActivity
+com/example/mailapp/MailAdapter.java
+ com.example.mailapp.MailAdapter
+com/example/mailapp/MailDetail.java
+ com.example.mailapp.MailDetail
+com/example/mailapp/BuildConfig.java
+ com.example.mailapp.BuildConfig
